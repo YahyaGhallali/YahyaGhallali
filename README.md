@@ -1,4 +1,4 @@
-# **I am Yahya Ghallali, an AI and Distributed Systems student.**
+# **I am Yahya Ghallali, a Data Driven and Distributed Systems student.**
 #### *as well as a citizen of the world.*
 
 ***
